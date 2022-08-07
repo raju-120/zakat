@@ -46,3 +46,14 @@ body{
 .snd-p{
     color: black;
 }
+
+.top-Container-head{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+.top-Container-p{
+    font-size: 20px;
+    text-align: center;
+    color: darkgray;
+}
